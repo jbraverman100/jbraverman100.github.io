@@ -294,6 +294,12 @@ footer {
 .MGT248-top{
     background: url(../images/IMG_2826.jpg);
 }
+.BUA400-top{
+    background: url(../images/lubin_house.jpg);
+}
+.EEE457-top{
+    background: url(../images/IMG_0051.jpg);
+}
 #lead {
     position: relative;
     height: 100vh;
@@ -907,3 +913,9 @@ footer {
         padding: 5px 10px
     }
 }
+
+#video1 {position: absolute;
+    left:0;}
+
+#video2 {position:absolute;
+    right:-20 ;}
